@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@remotion/cli": "^4.0.541",
+    "@remotion/three": "^4.0.541",
+    "@remotion/transitions": "^4.0.541",
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.541",
+    "three": "^0.187.0",
+    "typescript": "^7.0.2"
+  },
+  "name": "un-dato-mas-personajes",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "check": "tsc --noEmit"
+  }
+}
